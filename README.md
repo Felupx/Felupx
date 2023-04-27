@@ -30,5 +30,3 @@
   <a href="https://www.linkedin.com/in/felipe-de-brito-santos-14b61a260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="right" alt="Fe-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/56/fc/4a/56fc4a8dfda65f7f048801aaa3320982.jpg">
 </div>
-
-![snake gif](https://github.com/Felupx/Felupx/blob/output/github-contribution-grid-snake.svg)

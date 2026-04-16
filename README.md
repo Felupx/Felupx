@@ -1,39 +1,15 @@
-<div align="center">
-<h2>Olá, eu sou o Felipe Brito, estudante de Engenharia da computação!
-</div>
-</br>
+<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felupx&theme=dark" />
-  </a>
-  </br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felupx&layout=compact&theme=dark" />
-  </a>
-</div>
+```diff
+Hi, I'm Felipe 👨‍💻.
 
-<div align="center">
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Fe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-    <img align="center" alt="Fe-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Fe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Fe-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Fe-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </div>
-</div>
- 
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/felps.brito__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:felipebrito.santos2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-de-brito-santos-14b61a260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right" alt="Fe-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/56/fc/4a/56fc4a8dfda65f7f048801aaa3320982.jpg">
-</div>
-
-<br clear="right">
+@@I'm a computer engineer student@@
++ Based in Salto-SP, Brazil 🇧🇷.
++ IT Trainee
+- 21 years old
+! 📖 Programming, Data Analytics, Machine Learning
+```
 
   ##
 

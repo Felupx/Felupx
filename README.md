@@ -10,7 +10,35 @@ Hi, I'm Felipe 👨‍💻.
 ! 📖 Programming, Data Analytics, Machine Learning
 ```
 
-  ##
+<h2 align="left">Techs and tools</h2>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+</div>
+
+###
+
+
+## GitHub Stats
+<div align="center">
+
+  [![Felipe's GitHub stats](https://github-readme-stats-rouge-phi-60.vercel.app/api?username=Felupx&show_icons=true&theme=tokyonight)](https://github.com/danvitoriano/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats-rouge-phi-60.vercel.app/api/top-langs/?username=Felupx&layout=compact&theme=tokyonight)](https://github.com/danvitoriano/github-readme-stats)
+
+</div>
+
+##
 
 <!-- Pacman -->
 <picture>
